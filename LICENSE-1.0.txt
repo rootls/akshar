@@ -96,7 +96,7 @@
           that You distribute, all copyright, patent, trademark, and
           attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+          the Derivative Works.
 
       (b) You may add Your own copyright statement to Your modifications
           and may provide additional or different license terms and
@@ -104,6 +104,11 @@
           modifications, or for any such Derivative Works as a whole,
           provided Your use, reproduction, and distribution of the Work
           otherwise complies with the conditions stated in this License.
+
+      (c) You must cause, in the Source form of any Derivative Works
+          that You distribute, any modified files from the Source form
+          of the Work, to carry a prominent notice stating that You
+          changed the files.
 
    5. Submission of Contributions. Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
