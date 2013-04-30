@@ -75,10 +75,10 @@
       this License, each Contributor hereby grants to You a perpetual,
       worldwide, non-exclusive, no-charge, royalty-free, irrevocable
       (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
+      use, offer to sell, sell, import, and otherwise transfer the Work or
+      Derivative Works, where such license applies only to those patent
+      claims licensable by such Contributor that are necessarily infringed
+      by their Contribution(s) alone or by combination of their Contribution(s)
       with the Work to which such Contribution(s) was submitted. If You
       institute patent litigation against any entity (including a
       cross-claim or counterclaim in a lawsuit) alleging that the Work
@@ -92,15 +92,19 @@
       modifications, and in Source or Object form, provided that You
       meet the following conditions:
 
-      (a) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
+      (a) You must retain, in the Source form of any Work or Derivative
+          Works that You distribute, all copyright, patent, trademark,
+          and attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+          the Derivative Works. You may add Your own attribution notices
+          within Derivative Works that You distribute, alongside or as
+          an addendum to the notices from the Work, provided that
+          such additional attribution notices cannot be construed as
+          modifying the License.
 
-      (b) You must cause, in the Source form of any Derivative Works
-          that You distribute, any modified files from the Source form
-          of the Work, to carry prominent notices stating that You
+      (b) You must cause, in the Source form of any Work or Derivative
+          Works that You distribute, any modified files from the Source
+          form of the Work, to carry prominent notices stating that You
           changed the files; and
 
       (c) You may add Your own copyright statement to Your modifications
