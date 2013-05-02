@@ -96,8 +96,8 @@
           Works that You distribute, all copyright, patent, trademark,
           and attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
-          the Derivative Works. You may add Your own attribution notices
-          within Derivative Works that You distribute, alongside or as
+          the Derivative Works. You may add Your own notices within
+          Derivative Works that You distribute, alongside or as
           an addendum to the notices from the Work, provided that
           such additional attribution notices cannot be construed as
           modifying the License.
