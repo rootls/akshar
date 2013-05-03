@@ -99,7 +99,7 @@
           the Derivative Works. You may add Your own copyright, patent,
           trademark and attribution notices to Your modifications, or
           to any such Derivative Works that You distribute, alongside
-          or as an addendum to the notices from the Work, provided that
+          or as an addendum to such notices from the Work, provided that
           such additional notices cannot be construed as modifying the
           License.
 
