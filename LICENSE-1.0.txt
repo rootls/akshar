@@ -96,11 +96,12 @@
           Works that You distribute, all copyright, patent, trademark,
           and attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
-          the Derivative Works. You may add Your own notices within
-          Derivative Works that You distribute, alongside or as
-          an addendum to the notices from the Work, provided that
-          such additional attribution notices cannot be construed as
-          modifying the License.
+          the Derivative Works. You may add Your own copyright, patent,
+          trademark and attribution notices to Your modifications, or
+          to any such Derivative Works that You distribute, alongside
+          or as an addendum to the notices from the Work, provided that
+          such additional notices cannot be construed as modifying the
+          License.
 
       (b) You must cause, in the Source form of any Work or Derivative
           Works that You distribute, any modified files from the Source
