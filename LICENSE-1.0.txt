@@ -114,11 +114,6 @@
           provided Your use, reproduction, and distribution of the Work
           otherwise complies with the conditions stated in this License.
 
-      (d) You must cause, in the Source form of any Work or Derivative
-          Works that You distribute, any modified files from the Source
-          form of the Work, to carry prominent notices stating that You
-          changed the files.
-
    5. Submission of Contributions. Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
       by You to the Licensor shall be under the terms and conditions of
