@@ -107,14 +107,14 @@
           from the Work, provided that such additional notices cannot
           be construed as modifying the License.
 
-      (b) You may add Your own copyright statement to Your modifications
+      (c) You may add Your own copyright statement to Your modifications
           and may provide additional or different license terms and
           conditions for use, reproduction, or distribution of Your
           modifications, or for any such Derivative Works as a whole,
           provided Your use, reproduction, and distribution of the Work
           otherwise complies with the conditions stated in this License.
 
-      (c) You must cause, in the Source form of any Work or Derivative
+      (d) You may cause, in the Source form of any Work or Derivative
           Works that You distribute, any modified files from the Source
           form of the Work, to carry prominent notices stating that You
           changed the files.
