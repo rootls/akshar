@@ -1,7 +1,7 @@
 
                                  Akshar License
-                           Version 1.0, January 2013
-                        http://www.example.org/licenses/
+                             Version 1.0, May 2013
+                        http://aksharlicense.github.io/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -95,24 +95,29 @@
       (a) You must retain, in the Source form of any Work or Derivative
           Works that You distribute, a copy of this License.
 
-      (b) You must retain, in the Source form of any Work or Derivative
+      (b) You must cause, in the Source form of any Work or Derivative
+          Works that You distribute, any modified files from the Source
+          form of the Work, to carry prominent notices stating that You
+          changed the files.
+
+      (c) You must retain, in the Source form of any Work or Derivative
           Works that You distribute, all copyright, patent, trademark,
           and attribution notices from the Source form of the Work,
           excluding those notices that do not pertain to any part of
-          the Derivative Works. These notices are for informational
-          purposes only and do not modify the License. You may add
-          Your own copyright, patent, trademark and attribution notices
-          to Your modifications, or to any such Derivative Works that
-          You distribute, alongside or as an addendum to such notices
-          from the Work, provided that such additional notices cannot
-          be construed as modifying the License.
+          the Derivative Works.
 
-      (c) You may add Your own copyright statement to Your modifications
+      (d) You may add Your own copyright statement to Your modifications
           and may provide additional or different license terms and
           conditions for use, reproduction, or distribution of Your
           modifications, or for any such Derivative Works as a whole,
           provided Your use, reproduction, and distribution of the Work
           otherwise complies with the conditions stated in this License.
+
+      (e) You may add Your own attribution notices within Derivative
+          Works that You distribute, alongside or as an addendum to
+          the attribution notices from the Work, provided that such
+          additional attribution notices cannot be construed as
+          modifying the License.
 
    5. Submission of Contributions. Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
@@ -182,7 +187,7 @@
    You should have received a copy of the License. If not, You can
    obtain a copy of the License at
 
-       http://www.example.org/licenses/LICENSE-1.0
+       http://aksharlicense.github.io/LICENSE-1.0.txt
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
